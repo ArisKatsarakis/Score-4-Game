@@ -1,4 +1,10 @@
-6x Rows 
-7x columns
-21 pieces per player
-# Score-4-Java-ProJect
+#Score 4 Project
+
+**Languages Used in Project **
+
+> Javascript (For Making The Rules)
+
+> HTML (Customizing The Data)
+
+> CSS
+
